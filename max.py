@@ -1,2 +1,2 @@
-arr = [1,2,3,4,5,6,8]
-print("Máximo: ", max(arr))
+arr = [-1.1,-2,-3,-4,-5,-6,-8]
+print("Máximo:",max(arr))
